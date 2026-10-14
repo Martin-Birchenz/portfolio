@@ -7,8 +7,8 @@ export const personalInfo = {
   email: "birchenzmartin@gmail.com",
   phone: "+54 9 3435 611122",
   github: "https://github.com/Martin-Birchenz",
-  linkedin: "https://linkedin.com/in/martin-birchenz",
-  cvUrl: "/cv-martin-birchenz.pdf",
+  linkedin: "https://www.linkedin.com/in/birchenz/",
+  cvUrl: "/Birchenz-Martín-CV.pdf",
 };
 
 export const skillsData = {
@@ -63,7 +63,7 @@ export const projectsData = [
       "JWT",
       "Zod",
     ],
-    demoUrl: "https://tudemo-depor.vercel.app",
+    demoUrl: "https://depor-git-main-birchenz.vercel.app/",
     codeUrl: "https://github.com/Martin-Birchenz/depor.git",
   },
   {
@@ -82,8 +82,8 @@ export const projectsData = [
       "Cloudinary",
       "JWT Bearer",
     ],
-    demoUrl: "https://tudemo-nudo.vercel.app",
-    codeUrl: "https://github.com/Martin-Birchenz",
+    demoUrl: "https://punto-y-trama.vercel.app/",
+    codeUrl: "https://github.com/Martin-Birchenz/Kasanteria.git",
   },
   {
     id: 3,
